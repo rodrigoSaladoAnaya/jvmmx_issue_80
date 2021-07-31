@@ -1,0 +1,4 @@
+./run.sh local resources/img/small.jpg 00ED00 ff0000 20
+./run.sh local resources/img/big.jpeg FEBC75 ffff01 100
+./run.sh local resources/img/mars.jpg B1876D 0bff00 30
+./run.sh url https://ih1.redbubble.net/image.996009814.0447/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg FEBC75 a1f1f1 100
